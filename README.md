@@ -1,9 +1,9 @@
 # iPhone-2-Android-4-Messages
-Transfer your SMS &amp; MMS messages from iPhone to Android! Unfortunately, the Android Switch app doesn't reliably copy text messages unless several poorly documented conditions are met (iMessages off, sync cable vs. wifi, etc.). By using an unencrypted iTunes backup, this script should allow you to transfer your messages via SMS Backup &amp; Restore.
+
 
 # iPhone 2 Android 4 Messages
 
-Convert text messages and image attachments from an **unencrypted local Apple device backup** into XML accepted by [SMS Backup & Restore](https://www.synctech.com.au/sms-backup-restore/).
+Transfer your SMS messages &amp; MMS attachments from iPhone to Android! Unfortunately, the Android Switch app doesn't reliably copy text messages unless several poorly documented conditions are met (iMessages off, sync cable vs. wifi, etc.). By using an unencrypted iTunes backup, this script should allow you to transfer your messages via XML files accepted by [SMS Backup & Restore](https://www.synctech.com.au/sms-backup-restore/).
 
 The converter runs locally. It opens the Apple backup read-only and does not upload messages, images, phone numbers, or templates.
 
